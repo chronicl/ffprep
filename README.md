@@ -14,7 +14,7 @@
 - "out" - away from the boss
 - "pairs (intercardinal/cardinal)"
 
-### special callouts
+#### special callouts
 
 - "line" - take default line positions
 
@@ -43,7 +43,7 @@
 
 #### Hell Mode
 
-fey's temperance [server](https://discord.gg/feys-temperance)
+fey's temperance [discord server](https://discord.gg/feys-temperance)
 
 - e8s hell mode  
   discord://discord.com/channels/742194938380550235/799940594364842006/866016549878235190
