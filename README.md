@@ -2,20 +2,26 @@
 
 ## Callouts
 
-### positioning
+#### positioning
 
 - NESW only used for absolute positions
 - top, right, bottom, left for relative positions, while clarifying what direction is top
 - prefer "right and left looking at X" over "clockwise and counterclockwise of X" except if a universal point X can't easily be defined
 
-### common callouts
+#### common callouts
 
-- in: close to the boss/under the boss
-- out: away from the boss
+- "in" - close to the boss/under the boss
+- "out" - away from the boss
+- "pairs (intercardinal/cardinal)"
+
+### special callouts
+
+- "line" - take default line positions
 
 ## Mitigation
 
 - duplicate mitigations: simply alternate (define who goes first)
+- rezzing: dps (red mage) first -> healer -> healer (needs callouts)
 
 ## Positioning
 
@@ -23,24 +29,23 @@
      alt="Markdown Monster icon"
      style="width: 600px;" />
 
+## Adjusting
+
+- either melee adjust (argon, sif) or ranged adjust (nortie, gina)
+
 ## Tools
 
-- Shadowplay
-- Stream
+- quick diagrams - [raidplan.io](https://raidplan.io/plan/create?raid=ff.arena)
+- shared diagrams - [sketchtogether.com](https://sketchtogether.com/)
+- vod review: shadowplays and streams
 
-## Hell mode
+## Practice
 
-fey's temperance server
-https://discord.gg/feys-temperance
+#### Hell Mode
 
-shiva hell mode  
-discord://discord.com/channels/742194938380550235/799940594364842006/866016549878235190
+fey's temperance [server](https://discord.gg/feys-temperance)
 
-ucob hell mode  
-discord://discord.com/channels/742194938380550235/799940594364842006/830442516058341446
-
-e9-11s hell mode  
-discord://discord.com/channels/742194938380550235/799940594364842006/805180966061604884
-
-e12s hell mode  
-discord://discord.com/channels/742194938380550235/799940594364842006/901765160807567370
+- e8s [hell mode ](discord://discord.com/channels/742194938380550235/799940594364842006/866016549878235190)
+- ucob [hell mode](discord://discord.com/channels/742194938380550235/799940594364842006/830442516058341446)
+- e9-11s [hell mode](discord://discord.com/channels/742194938380550235/799940594364842006/805180966061604884)
+- e12s [hell mode](discord://discord.com/channels/742194938380550235/799940594364842006/901765160807567370)
