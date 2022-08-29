@@ -25,7 +25,7 @@
 
 ## Positioning
 
-<img src="https://cdn.discordapp.com/attachments/808054490384826385/1009504781640925275/Sketch.png"
+<img src="https://cdn.discordapp.com/attachments/808054490384826385/1013893421376737411/Sketch3.png"
      alt="Markdown Monster icon"
      style="width: 350px;" />
 
