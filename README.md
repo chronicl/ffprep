@@ -1,7 +1,8 @@
 # Abyssos Savage Tier
 
-## Random thoughts after prog
+## Random thoughts
 disclaimer: all of these thoughts are not always the perfect thing to do or assume, but they should be taken into consideration
+- pay attention to boss animations in savage as well as in normal for preparation
 - stacks in normal mode usually become light party stacks in savage (p5s and one of the asphodelos raids)
 - simple timeline/order of mechanics can help a lot especially if the fight is long
 - put markers above the heads of the healers for easier group identification
