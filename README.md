@@ -1,5 +1,16 @@
 # Abyssos Savage Tier
 
+## Random thoughts after prog
+disclaimer: all of these thoughts are not always the perfect thing to do or assume, but they should be taken into consideration
+- stacks in normal mode usually become light party stacks in savage
+- simple timeline/order of mechanics can help a lot especially if the fight is long
+- put markers above the heads of the healers for easier group identification
+- look for patterns in each mechanic, especially the first 2 fights of a tier won't have more than 2 patterns for all mechanics
+- 2 dps rezzers for the first two fights (rdm and smn), maybe even double/triple rdm which you swap out when close to kill can be good
+- when seeing a mechanic the first time consider having a rezzer run into the wall, rez them, have a tank survive, after the mechanic take the rez and get everyone else up quickly to see more of the fight without having completed the previous mechanic
+- when seeing a mechanic for the first time all rezzers should try to stay alive even if it may cost the life of others (i.e. don't take a stack if you don't know how many people are needed for it)
+- when seeing a stack mechanic for the first time, don't stack but spread so you can later identify how many people are needed for the stack based on the damage done
+
 ## Callouts
 
 #### positioning
@@ -38,17 +49,6 @@
 - quick diagrams - [raidplan.io](https://raidplan.io/plan/create?raid=ff.arena)
 - shared diagrams - [sketchtogether.com](https://sketchtogether.com/)
 - vod review: shadowplays and streams
-
-## Random thoughts after prog
-disclaimer: all of these thoughts are not always the perfect thing to do or assume, but they should be taken into consideration
-- stacks in normal mode usually become light party stacks in savage
-- simple timeline/order of mechanics can help a lot especially if the fight is long
-- put markers above the heads of the healers for easier group identification
-- look for patterns in each mechanic, especially the first 2 fights of a tier won't have more than 2 patterns for all mechanics
-- 2 dps rezzers for the first two fights (rdm and smn), maybe even double/triple rdm which you swap out when close to kill can be good
-- when seeing a mechanic the first time consider having a rezzer run into the wall, rez them, have a tank survive, after the mechanic take the rez and get everyone else up quickly to see more of the fight without having completed the previous mechanic
-- when seeing a mechanic for the first time all rezzers should try to stay alive even if it may cost the life of others (i.e. don't take a stack if you don't know how many people are needed for it)
-- when seeing a stack mechanic for the first time, don't stack but spread so you can later identify how many people are needed for the stack based on the damage done
 
 ## Practice
 
