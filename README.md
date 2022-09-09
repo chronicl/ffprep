@@ -40,7 +40,7 @@
 - vod review: shadowplays and streams
 
 ## Random thoughts after prog
-
+disclaimer: all of these thoughts are not always the perfect thing to do or assume, but they should be taken into consideration
 - stacks in normal mode usually become light party stacks in savage
 - simple timeline/order of mechanics can help a lot especially if the fight is long
 - put markers above the heads of the healers for easier group identification
